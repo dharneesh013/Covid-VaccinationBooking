@@ -127,7 +127,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 <button type="submit" class="btn btn-primary">Submit</button>
                 </div>
                 <div class="col-sm-6 d-flex justify-content-end">
-                <a class="btn btn-outline-primary" href="/covid/admin/php/index.php">Cancel</a>
+                <a class="btn btn-outline-primary" href="/admin/php/index.php">Cancel</a>
                 </div>
                 </div>
 
