@@ -15,3 +15,7 @@ This is a web application for Covid-19 vaccination booking with separate use cas
 - Separte login for admin was enabled with an endpoint to avoid ambiguity
 - For vaccination booking only 10 slots are allowed per day. It can be achieved by executing the crontab execute the task everyday at 12:00 AM
 
+
+
+https://user-images.githubusercontent.com/77725682/233558519-d1476416-00af-461d-85d9-4b2343f6c665.mp4
+
