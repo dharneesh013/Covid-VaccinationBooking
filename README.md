@@ -1,2 +1,2 @@
-# Covid-VaccinationBooking
-Covid Vaccination portal using php and mysql
+# Covid Vaccination Booking Portal
+
