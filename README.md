@@ -10,3 +10,5 @@ This is a web application for Covid-19 vaccination booking with separate use cas
 | ----------- | ----------- |
 | Backend Language | PHP can be used as the backend language to handle user authentication, database interactions, and business logic. Using PHP in the project can help streamline the development process and create a scalable, efficient, and secure web application. |
 | Database |  PHPMyAdmin is a web-based graphical user interface tool used to manage MySQL databases. Using MySQL and PHPMyAdmin in the project can help ensure data security, scalability, and reliability of the application. |
+
+# Configuration and setup in local environment
