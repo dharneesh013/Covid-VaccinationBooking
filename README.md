@@ -11,6 +11,7 @@ This is a web application for Covid-19 vaccination booking with separate use cas
 | Backend Language | PHP can be used as the backend language to handle user authentication, database interactions, and business logic. Using PHP in the project can help streamline the development process and create a scalable, efficient, and secure web application. |
 | Database |  PHPMyAdmin is a web-based graphical user interface tool used to manage MySQL databases. Using MySQL and PHPMyAdmin in the project can help ensure data security, scalability, and reliability of the application. |
 
-# Functionality included
-- For vaccination booking only 10 slots are allowed per day. It can be achieved by executing the crontab execute the task everyday at 12:00 AM
+# Notables
 - Separte login for admin was enabled with an endpoint to avoid ambiguity
+- For vaccination booking only 10 slots are allowed per day. It can be achieved by executing the crontab execute the task everyday at 12:00 AM
+
